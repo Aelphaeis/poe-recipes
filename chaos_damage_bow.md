@@ -5,7 +5,7 @@ flowchart TD
     B --> C{Good base quality?}
     C --> |Yes| D[Metallic + Corroded Fossil]
     C --> |No| B
-    D --> E{+2 to Level of Socketed Bow Gems<br/>+1 to Level of Socketed Gems}
+    D --> E{+2&nbsp;to&nbsp;Level&nbsp;of&nbsp;Socketed&nbsp;Bow&nbsp;Gems<br/>+1&nbsp;to&nbsp;Level&nbsp;of&nbsp;Socketed Gems}
     E --> |No| D
     E --> |Yes| F{Has Open Prefix?}
     F --> |No| D
