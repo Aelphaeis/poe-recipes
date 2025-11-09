@@ -1,0 +1,3 @@
+# Snippets
+
+## Alternation Spam
